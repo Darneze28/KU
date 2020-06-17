@@ -9,7 +9,7 @@ Class Project for Elk Stack
 
 git add .
 
-#### Commits files that we added to our set of changes
+### Commits files that we added to our set of changes
 
 git commit -a -m "A short message about what I changed"
 
